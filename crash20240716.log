@@ -1,0 +1,1613 @@
+[authlib-injector] [INFO] Logging file: C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\authlib-injector.log
+[authlib-injector] [INFO] Version: 1.2.5
+[authlib-injector] [INFO] Authentication server: https://mcskin.cn/api/yggdrasil/
+[00:24:31] [main/INFO]: ModLauncher running: args [--username, lucyfaye, --version, 182, --gameDir, C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182, --assetsDir, C:\Users\18593\Desktop\MC\HMCL\.minecraft\assets, --assetIndex, 1.18, --uuid, 83d2d8829bb73892ac65367a0f4705b3, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, HMCL 3.5.8, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, -Xss512K, -XX:+AggressiveOpts, -XX:+UseCompressedOops, -XX:+UseCMSCompactAtFullCollection, -XX:+UseFastAccessorMethods, -XX:ParallelGCThreads=4, -XX:+UseConcMarkSweepGC, -XX:CMSFullGCsBeforeCompaction=2, -XX:CMSInitiatingOccupancyFraction=70, -XX:-DisableExplicitGC, -XX:TargetSurvivorRatio=90]
+[00:24:31] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.11 by Azul Systems, Inc.
+[00:24:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/18593/Desktop/MC/HMCL/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[00:24:31] [main/INFO]: MoreCrashInfo TransformationService: C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\tmp\MoreCrashInfo-Locator-1.18.2.jar
+[00:24:31] [main/INFO]: Added C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\tmp\MoreCrashInfo-Locator-1.18.2.jar to SERVICE with Rebuilt
+[2024-07-16 00:24:32] [INFO]: I18nUpdate Mod 3.5.5 is loaded in 1.18.2 with Forge
+[2024-07-16 00:24:32] [INFO]: Converting: C:\Users\18593\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip
+[2024-07-16 00:24:33] [INFO]: Converted: [C:\Users\18593\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip] -> C:\Users\18593\.i18nupdatemod\1.18.2\Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip
+[2024-07-16 00:24:33] [INFO]: Synchronized: C:\Users\18593\.i18nupdatemod\1.18.2\Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip -> C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip
+[00:24:33] [main/INFO]: Minecraft version 1.18.2 major 18
+[00:24:33] [main/INFO]: MoreCrashInfo ModLocator: C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\tmp\MoreCrashInfo-Core-1.18.2.jar
+[00:24:33] [main/INFO]: Found mod file MoreCrashInfo-Core-1.18.2.jar of type MOD with provider me.xfl03.morecrashinfo.fml.ModLocator@6f6c6077
+[00:24:33] [main/INFO]: Found mod file [lib]arnicalib-1.18.2-5.7.3.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]balm-3.2.6.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]blueprint-1.18.2-5.5.0.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]Bookshelf-Forge-1.18.2-13.3.56.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]carrotslib-mc1.18.2-4.0.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]citadel-1.11.3-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]CodeChickenLib-1.18.2-4.1.4.488-universal.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]collective-1.18.2-7.7.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]CreativeCore_FORGE_v2.6.17_mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]cristellib-forge-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]differentiate-1.18.2-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]flowerycore.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]ftb-library-forge-1802.3.11-build.177.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]geckolib-forge-1.18-3.0.57.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]InsaneLib-1.5.3-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]JsonThings-1.18.2-0.4.15.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]konkrete_forge_1.8.0_MC_1.18-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]kotlinforforge-3.12.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]LowDragLib-1.18.2-1.0.8.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]Mantle-1.18.2-1.9.43.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]mcjtylib-1.18-6.0.20.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]melody_forge_1.0.1_MC_1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]mmlib-1.4.5-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]Placebo-1.18.2-6.6.7.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]rhino-forge-1802.2.1-build.255.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]selene-1.18.2-1.17.14.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]supermartijn642configlib-1.1.8-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]supermartijn642corelib-1.1.15-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]titanium-1.18.2-3.5.11-45.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]watermedia-2.0.27-beta.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [lib]YungsApi-1.18.2-Forge-2.2.9.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [Xaero的世界地图] XaerosWorldMap_1.37.3_Forge_1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [优化]starlight-1.0.2+forge.546ae87.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [姨母佰德姨母]embeddium-0.3.12+mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [姨母佰德姨母泼辣丝]embeddiumplus-1.18.2-v1.2.5.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [姨母佰德姨母配置界面]textrues_embeddium_options-0.1.1+mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [崩溃小能手]oculus-mc1.18.2-1.6.4.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [帕秋莉手册]Patchouli-1.18.2-71.1.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力]create-1.18.2-0.5.1.f.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：东西附加]create-stuff-additions1.18.2_v2.0.4a.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：履带]trackwork-1.18.2-0.0.1h1-alpha.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：更多实用设备]createutilities-0.2.0+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：更多齿轮]extendedgears-2.1.0-1.18.2-0.5.1.c-forge.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：末影传输] createendertransmission-2.0.6-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：柴油机]createdieselgenerators-1.18.2-1.2h.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：汽鸣铁道]Steam_Rails-1.4.8+forge-mc1.18.2-build.23.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：火炮] createbigcannons-forge-1.18.2-0.5.3.a.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [机械动力：物品附加]createaddition-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [瓦尔基里2]valkyrienskies-118-forge-2.1.1-beta.6+b1ee932637.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [瓦尔基里：发条]clockwork-1.18.2-0.1.13-forge-90516b7ffc.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [瓦尔基里：尤里卡的船]eureka-1.4.0-beta.1.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [禁用警告]shutupexperimentalsettings-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file [铷扩展]rubidium-extra-0.4.18+mc1.18.2-build.86.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file appleskin-forge-mc1.18.2-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file architectury-4.12.94-forge.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file Argentina's delight 1.18.2 (3.0 beta).jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file CraftITrace-1.0.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file do-a-barrel-roll-2.5.3+1.18.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file EpicFight-18.5.24.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file framework-forge-1.18.2-0.4.3.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file HitFeedback-1.18.2-1.1.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file iceandfire-2.1.12-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file jei-1.18.2-forge-10.2.1.1006.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file pamhc2crops-1.18.2-1.0.6.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file pamhc2foodcore-1.18.2-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file pamhc2foodextended-1.18.2-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file pamhc2trees-1.18.2-1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file physics-mod-2.12.5-mc-1.18.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file Quark-3.2-358.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file tac-a-0.3.10.2-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file travelersbackpack-forge-1.18.2-7.1.48.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file Xaeros_Minimap_24.2.0_Forge_1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/INFO]: Found mod file 史诗村庄ctov-2.9.4.jar of type MOD with provider {mods folder locator at C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\mods}
+[00:24:33] [main/WARN]: Mod file C:\Users\18593\Desktop\MC\HMCL\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.21\fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[00:24:33] [main/WARN]: Mod file C:\Users\18593\Desktop\MC\HMCL\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.21\javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[00:24:33] [main/WARN]: Mod file C:\Users\18593\Desktop\MC\HMCL\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.21\lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[00:24:33] [main/WARN]: Mod file C:\Users\18593\Desktop\MC\HMCL\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.21\mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[00:24:33] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.21.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@79d82f66
+[00:24:33] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.21.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@79d82f66
+[00:24:33] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.21.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@79d82f66
+[00:24:33] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.21.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@79d82f66
+[00:24:33] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@79d82f66
+[00:24:33] [main/INFO]: Found mod file forge-1.18.2-40.2.21-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@79d82f66
+[00:24:33] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[00:24:33] [main/INFO]: Found 31 dependencies adding them to mods collection
+[00:24:33] [main/INFO]: Found mod file classmate-1.5.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jackson-annotations-2.15.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file joml-primitives-1.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file ColaMixinConfig-v1.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file json-schema-validator-1.0.71.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jackson-module-parameter-names-2.14.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file Registrate-MC1.18.2-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file kfflang-3.12.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jackson-kotlin-dsl-1.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file zjsonpatch-0.4.11.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file api-1.1.0+b19b27c4a4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jackson-dataformat-cbor-2.14.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file javax.inject-1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file util-1.1.0+b19b27c4a4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jackson-module-kotlin-2.14.0-rubyfork.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file kffmod-3.12.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file kfflib-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file flywheel-forge-1.18.2-0.6.10-105.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jackson-databind-2.15.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file ritchiesprojectilelib-1.0.0-3a68f88+1.18.2-forge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file commons-collections4-4.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file mixinextras-forge-0.3.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jackson-core-2.15.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jsonschema-module-jackson-4.25.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file itu-1.7.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file jsonschema-generator-4.25.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file MixinExtras-0.3.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file cloth-config-forge-6.3.81.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file dagger-2.43.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file commons-math3-3.6.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:33] [main/INFO]: Found mod file joml-1.10.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@33bb3f86
+[00:24:35] [main/INFO]: Compatibility level set to JAVA_17
+[00:24:35] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[00:24:35] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 182, --gameDir, C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182, --assetsDir, C:\Users\18593\Desktop\MC\HMCL\.minecraft\assets, --uuid, 83d2d8829bb73892ac65367a0f4705b3, --username, lucyfaye, --assetIndex, 1.18, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, HMCL 3.5.8, --width, 854, --height, 480, -Xss512K, -XX:+AggressiveOpts, -XX:+UseCompressedOops, -XX:+UseCMSCompactAtFullCollection, -XX:+UseFastAccessorMethods, -XX:ParallelGCThreads=4, -XX:+UseConcMarkSweepGC, -XX:CMSFullGCsBeforeCompaction=2, -XX:CMSInitiatingOccupancyFraction=70, -XX:-DisableExplicitGC, -XX:TargetSurvivorRatio=90]
+[00:24:35] [main/WARN]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:24:35] [main/WARN]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:24:35] [main/WARN]: Reference map 'ritchiesprojectilelib-forge-refmap.json' for ritchiesprojectilelib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:24:35] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[00:24:35] [main/INFO]: Loaded configuration file for Embeddium: 115 options available, 1 override(s) found
+[00:24:36] [main/WARN]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:24:36] [main/INFO]: Loaded configuration file for Sodium Extra: 30 options available, 0 override(s) found
+[00:24:36] [main/WARN]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:24:36] [main/WARN]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:24:36] [main/WARN]: Error loading class: dev/nolij/zume/lexforge18/ZumeKeyBind (java.lang.ClassNotFoundException: dev.nolij.zume.lexforge18.ZumeKeyBind)
+[00:24:36] [main/WARN]: @Mixin target dev.nolij.zume.lexforge18.ZumeKeyBind was not found embeddiumplus.mixin.json:zume.ZumeKeyBindsForgeMixin
+[00:24:36] [main/WARN]: Error loading class: dev/nolij/zume/lexforge/ZumeKeyBind (java.lang.ClassNotFoundException: dev.nolij.zume.lexforge.ZumeKeyBind)
+[00:24:36] [main/WARN]: @Mixin target dev.nolij.zume.lexforge.ZumeKeyBind was not found embeddiumplus.mixin.json:zume.ZumeKeyBindsForgeMixin
+[00:24:36] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/gui/screen/AbstractDisplayViewingScreen (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.gui.screen.AbstractDisplayViewingScreen)
+[00:24:36] [main/WARN]: @Mixin target me.shedaniel.rei.impl.client.gui.screen.AbstractDisplayViewingScreen was not found ldlib.mixins.json:accessor.AbstractDisplayViewingScreenAccessor
+[00:24:37] [main/ERROR]: The specified mixin 'net.diebuddies.mixins.cloth.MixinRenderedBuffer' was not found
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: The specified mixin 'net.diebuddies.mixins.cloth.MixinRenderedBuffer' was not found
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:864) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:850) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:779) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:539) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-9.1.3.jar:9.1.3+9.1.3+main.9b69c82a]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:637) ~[?:?]
+	at java.lang.Class.forName(Class.java:545) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.21.jar%2318!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+Caused by: java.lang.ClassNotFoundException: The specified mixin 'net.diebuddies.mixins.cloth.MixinRenderedBuffer' was not found
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.loadMixinClass(MixinInfo.java:1313) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:857) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	... 28 more
+[00:24:37] [main/WARN]: Error loading class: net/optifine/shaders/Shaders (java.lang.ClassNotFoundException: net.optifine.shaders.Shaders)
+[00:24:37] [main/WARN]: Error loading class: net/optifine/shaders/ShadersCompatibility (java.lang.ClassNotFoundException: net.optifine.shaders.ShadersCompatibility)
+[00:24:37] [main/WARN]: Error loading class: net/optifine/shaders/Programs (java.lang.ClassNotFoundException: net.optifine.shaders.Programs)
+[00:24:37] [main/WARN]: Error loading class: net/optifine/util/BlockUtils (java.lang.ClassNotFoundException: net.optifine.util.BlockUtils)
+[00:24:37] [main/WARN]: Error loading class: link/infra/indium/renderer/render/TerrainRenderContext (java.lang.ClassNotFoundException: link.infra.indium.renderer.render.TerrainRenderContext)
+[00:24:37] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[00:24:37] [main/WARN]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[00:24:37] [main/WARN]: Error loading class: com/sonicether/soundphysics/SoundPhysics (java.lang.ClassNotFoundException: com.sonicether.soundphysics.SoundPhysics)
+[00:24:37] [main/WARN]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[00:24:37] [main/WARN]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[00:24:37] [main/WARN]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[00:24:37] [main/WARN]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[00:24:37] [main/WARN]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[00:24:37] [main/WARN]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[00:24:37] [main/WARN]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[00:24:37] [main/WARN]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[00:24:37] [main/WARN]: Error loading class: me/desht/modularrouters/container/ContainerModularRouter (java.lang.ClassNotFoundException: me.desht.modularrouters.container.ContainerModularRouter)
+[00:24:37] [main/WARN]: Error loading class: li/cil/tis3d/client/renderer/tileentity/CasingTileEntityRenderer (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.tileentity.CasingTileEntityRenderer)
+[00:24:37] [main/WARN]: Error loading class: li/cil/tis3d/client/renderer/RenderContextImpl (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.RenderContextImpl)
+[00:24:37] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [oculus]) disables it and children
+[00:24:37] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[00:24:37] [main/WARN]: Found problematic active MixinExtras instance at llamalad7.mixinextras (version 0.2.0-beta.1)
+[00:24:37] [main/WARN]: Versions from 0.2.0-beta.1 to 0.2.0-beta.9 have limited support and it is strongly recommended to update.
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
+Completely ignored arguments: [-Xss512K, -XX:+AggressiveOpts, -XX:+UseCompressedOops, -XX:+UseCMSCompactAtFullCollection, -XX:+UseFastAccessorMethods, -XX:ParallelGCThreads=4, -XX:+UseConcMarkSweepGC, -XX:CMSFullGCsBeforeCompaction=2, -XX:CMSInitiatingOccupancyFraction=70, -XX:-DisableExplicitGC, -XX:TargetSurvivorRatio=90]
+[authlib-injector] [INFO] Httpd is running on port 59002
+[authlib-injector] [INFO] Transformed [net.minecraft.client.player.AbstractClientPlayer] with [Constant URL Transformer]
+[00:24:39] [main/INFO]: MoreCrashInfo Mod Loaded
+[00:24:39] [main/INFO]: 
+	Forge CoreMods: 
+		| ID            | Name                          | Source                           | Status | 
+		| ------------- | ----------------------------- | -------------------------------- | ------ | 
+		| xaeroworldmap | xaeroworldmap_core            | xaeroworldmap_core.js            | Loaded | 
+		| forge         | field_to_method               | field_to_method.js               | Loaded | 
+		| forge         | field_to_instanceof           | field_to_instanceof.js           | Loaded | 
+		| forge         | add_bouncer_method            | add_bouncer_method.js            | Loaded | 
+		| forge         | registry_object_binary_compat | registry_object_binary_compat.js | Loaded | 
+		| xaerominimap  | xaerohud_core                 | xaerohud_core.js                 | Loaded | 
+	Mixin Configs: 
+		| Name                                        | Mixin Package                                     | Priority | Required | Targets | 
+		| ------------------------------------------- | ------------------------------------------------- | -------- | -------- | ------- | 
+		| embeddiumplus.mixin.json                    | me.srrapero720.embeddiumplus.mixins.impl.         | 1000     | true     | 23      | 
+		| insanelib.mixins.json                       | insane96mcp.insanelib.mixin.                      | 1000     | true     | 0       | 
+		| vs_eureka.mixins.json                       | org.valkyrienskies.eureka.forge.mixin.            | 1000     | true     | 0       | 
+		| vs_eureka-common.mixins.json                | org.valkyrienskies.eureka.mixin.                  | 1000     | true     | 1       | 
+		| ritchiesprojectilelib-forge.mixins.json     | rbasamoyai.ritchiesprojectilelib.mixin.forge.     | 1000     | true     | 0       | 
+		| ritchiesprojectilelib.mixins.json           | rbasamoyai.ritchiesprojectilelib.mixin.           | 1000     | true     | 2       | 
+		| citadel.mixins.json                         | com.github.alexthe666.citadel.mixin.              | 1000     | true     | 5       | 
+		| placebo.mixins.json                         | shadows.placebo.mixin.                            | 1000     | true     | 7       | 
+		| yungsapi.mixins.json                        | com.yungnickyoung.minecraft.yungsapi.mixin.       | 1000     | true     | 9       | 
+		| yungsapi_forge.mixins.json                  | com.yungnickyoung.minecraft.yungsapi.mixin.       | 1000     | true     | 0       | 
+		| bookshelf.common.mixins.json                | net.darkhax.bookshelf.mixin.                      | 1000     | true     | 18      | 
+		| bookshelf.forge.mixins.json                 | net.darkhax.bookshelf.mixin.                      | 1000     | true     | 1       | 
+		| vs_clockwork-common.mixins.json             | org.valkyrienskies.clockwork.mixin.               | 1000     | true     | 13      | 
+		| vs_clockwork.mixins.json                    | org.valkyrienskies.clockwork.forge.mixin.         | 1000     | true     | 1       | 
+		| ldlib.mixins.json                           | com.lowdragmc.lowdraglib.core.mixins.             | 1000     | true     | 13      | 
+		| balm.mixins.json                            | net.blay09.mods.balm.mixin.                       | 1000     | true     | 15      | 
+		| railways-common.mixins.json                 | com.railwayteam.railways.mixin.                   | 1000     | true     | 99      | 
+		| railways.mixins.json                        | com.railwayteam.railways.forge.mixin.             | 1000     | true     | 5       | 
+		| melody.mixins.json                          | de.keksuccino.melody.mixin.mixins.common.         | 1000     | true     | 2       | 
+		| melody.forge.mixins.json                    | de.keksuccino.melody.mixin.mixins.forge.          | 1000     | true     | 0       | 
+		| konkrete.mixin.json                         | de.keksuccino.konkrete.mixin.                     | 1000     | true     | 7       | 
+		| embeddium.mixins.json                       | me.jellysquid.mods.sodium.mixin.                  | 1000     | true     | 51      | 
+		| farmersdelight.mixins.json                  | vectorwing.farmersdelight.common.mixin.           | 1000     | true     | 9       | 
+		| do-a-barrel-roll.forge.mixins.json          | nl.enjarai.doabarrelroll.forge.mixin.             | 1000     | true     | 1       | 
+		| do-a-barrel-roll.mixins.json                | nl.enjarai.doabarrelroll.mixin.                   | 1000     | true     | 6       | 
+		| mixins.trackwork.json                       | edn.stratodonut.trackwork.mixin.                  | 1000     | true     | 1       | 
+		| supermartijn642corelib.mixins.json          | com.supermartijn642.core.mixin.                   | 1000     | true     | 6       | 
+		| patchouli_xplat.mixins.json                 | vazkii.patchouli.mixin.                           | 1000     | true     | 7       | 
+		| mixins.oculus.json                          | net.coderbot.iris.mixin.                          | 1000     | true     | 51      | 
+		| mixins.oculus.fantastic.json                | net.coderbot.iris.mixin.fantastic.                | 1000     | true     | 5       | 
+		| mixins.oculus.vertexformat.json             | net.coderbot.iris.mixin.vertices.                 | 1000     | true     | 7       | 
+		| mixins.oculus.bettermipmaps.json            | net.coderbot.iris.mixin.bettermipmaps.            | 1000     | true     | 2       | 
+		| mixins.oculus.fixes.maxfpscrash.json        | net.coderbot.iris.mixin.                          | 1000     | true     | 1       | 
+		| mixins.oculus.optimized-stitching.json      | net.coderbot.iris.mixin.optimized_stitching.      | 1000     | true     | 1       | 
+		| oculus-batched-entity-rendering.mixins.json | net.coderbot.batchedentityrendering.mixin.        | 1000     | true     | 12      | 
+		| mixins.oculus.compat.sodium.json            | net.coderbot.iris.compat.sodium.mixin.            | 1000     | true     | 30      | 
+		| mixins.oculus.compat.indigo.json            | net.coderbot.iris.compat.indigo.mixin.            | 1000     | true     | 0       | 
+		| mixins.oculus.compat.indium.json            | net.coderbot.iris.compat.indium.mixin.            | 1000     | true     | 0       | 
+		| collective_forge.mixins.json                | com.natamus.collective.forge.mixin.               | 1000     | true     | 2       | 
+		| extendedgears-common.mixins.json            | com.rabbitminers.extendedgears.mixin.             | 1000     | true     | 16      | 
+		| extendedgears.mixins.json                   | com.rabbitminers.extendedgears.mixin.forge.       | 1000     | true     | 1       | 
+		| architectury.mixins.json                    | dev.architectury.mixin.forge.                     | 1000     | true     | 9       | 
+		| architectury-common.mixins.json             | dev.architectury.mixin.                           | 1000     | true     | 9       | 
+		| mixins.codechickenlib.json                  | codechicken.lib.internal.mixin.                   | 1000     | true     | 4       | 
+		| craftitrace.mixin.json                      | me.srrapero720.craftitrace.mixins.                | 1000     | true     | 2       | 
+		| rhino-common.mixins.json                    | dev.latvian.mods.rhino.mod.core.mixin.common.     | 1000     | true     | 8       | 
+		| createbigcannons-common.mixins.json         | rbasamoyai.createbigcannons.mixin.                | 1000     | true     | 16      | 
+		| createbigcannons.mixins.json                | rbasamoyai.createbigcannons.forge.mixin.          | 1000     | true     | 7       | 
+		| ftblibrary-common.mixins.json               | dev.ftb.mods.ftblibrary.core.mixin.common.        | 1000     | true     | 4       | 
+		| hit_feedback.mixins.json                    | mod.chloeprime.hitfeedback.mixin.forge.           | 1000     | true     | 0       | 
+		| hit_feedback-common.mixins.json             | mod.chloeprime.hitfeedback.mixin.                 | 1000     | true     | 4       | 
+		| tac.mixins.json                             | com.tac.guns.mixin.                               | 1000     | true     | 19      | 
+		| epicfight.mixins.json                       | yesman.epicfight.mixin.                           | 1000     | true     | 14      | 
+		| shutupexperimentalsettings.mixins.json      | corgitaco.shutupexperimentalsettings.mixin.       | 1000     | true     | 2       | 
+		| starlight.mixins.json                       | ca.spottedleaf.starlight.mixin.                   | 1000     | true     | 13      | 
+		| iceandfire.mixins.json                      | com.github.alexthe666.iceandfire.world.gen.mixin. | 1000     | true     | 2       | 
+		| blueprint.mixins.json                       | com.teamabnormals.blueprint.core.mixin.           | 1000     | true     | 27      | 
+		| flowerycore.mixins.json                     | io.github.justfoxx.mixin.                         | 1000     | true     | 1       | 
+		| selene.mixins.json                          | net.mehvahdjukaar.selene.mixins.                  | 1000     | true     | 12      | 
+		| jsonthings.mixins.json                      | dev.gigaherz.jsonthings.mixin.                    | 1000     | true     | 1       | 
+		| physicsmod.mixins.json                      | net.diebuddies.mixins.                            | 1000     | false    | 72      | 
+		| creativecore.mixins.json                    | team.creative.creativecore.mixin.                 | 1000     | true     | 1       | 
+		| createutilities.mixins.json                 | me.duquee.createutilities.mixins.                 | 1000     | true     | 3       | 
+		| createendertransmission.mixins.json         | com.forsteri.createendertransmission.mixin.       | 1000     | true     | 1       | 
+		| arnicalib.mixin.json                        | org.auioc.mcmod.arnicalib.mod.mixin.              | 1000     | true     | 8       | 
+		| flywheel.mixins.json                        | com.jozufozu.flywheel.mixin.                      | 1000     | true     | 21      | 
+		| flywheel.sodium.mixins.json                 | com.jozufozu.flywheel.mixin.sodium.               | 1000     | true     | 2       | 
+		| quark.mixins.json                           | vazkii.quark.mixin.                               | 1000     | true     | 70      | 
+		| sodium-extra.mixins.json                    | me.flashyreese.mods.sodiumextra.mixin.            | 1000     | true     | 32      | 
+		| valkyrienskies-common.mixins.json           | org.valkyrienskies.mod.mixin.                     | 1000     | true     | 143     | 
+		| valkyrienskies-forge.mixins.json            | org.valkyrienskies.mod.forge.mixin.               | 1000     | true     | 13      | 
+		| reeses-sodium-options.mixins.json           | me.flashyreese.mods.reeses_sodium_options.mixin.  | 1000     | true     | 7       | 
+		| createaddition.mixins.json                  | com.mrh0.createaddition.mixin.                    | 1000     | true     | 3       | 
+		| cristellib-common.mixins.json               | net.cristellib.mixin.                             | 1000     | true     | 0       | 
+		| cristellib.mixins.json                      | net.cristellib.forge.mixin.                       | 1000     | true     | 0       | 
+		| mixinextras.init.mixins.json                | com.llamalad7.mixinextras.platform.forge.mixins.  | 1000     | false    | 0       | 
+		| create.mixins.json                          | com.simibubi.create.foundation.mixin.             | 1100     | true     | 27      | 
+		| createdieselgenerators.mixins.json          | com.jesz.createdieselgenerators.mixins.           | 1177     | true     | 2       | 
+
+[00:24:40] [pool-3-thread-1/WARN]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[00:24:40] [pool-3-thread-1/WARN]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[00:24:45] [Render thread/WARN]: Assets URL 'union:/C:/Users/18593/Desktop/MC/HMCL/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[00:24:45] [Render thread/WARN]: Assets URL 'union:/C:/Users/18593/Desktop/MC/HMCL/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[00:24:45] [Render thread/ERROR]: File /things/.mcassetsroot does not exist in classpath
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilEnvironment] with [Constant URL Transformer]
+[00:24:45] [Render thread/INFO]: Environment: authHost='https://mcskin.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:59002/https/api.mojang.com', sessionHost='http://127.0.0.1:59002/https/sessionserver.mojang.com', servicesHost='http://127.0.0.1:59002/https/api.minecraftservices.com', name='PROD'
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Texture Whitelist Transformer]
+[00:24:45] [Render thread/INFO]: Setting user: lucyfaye
+[00:24:45] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[00:24:47] [Render thread/WARN]: Loading Embeddium++Config
+[00:24:47] [Render thread/INFO]: Updating config cache
+[00:24:47] [Render thread/INFO]: Cache updated successfully
+[00:24:47] [Render thread/WARN]: @Redirect conflict. Skipping epicfight.mixins.json:MixinMouseHandler->@Redirect::epicfight_turnPlayer(Lnet/minecraft/client/player/LocalPlayer;DD)V with priority 1000, already redirected by do-a-barrel-roll.forge.mixins.json:MouseMixin->@Redirect::doABarrelRoll$changeLookDirection(Lnet/minecraft/client/player/LocalPlayer;DD)V with priority 1000
+[00:24:47] [Render thread/INFO]: Debug functionality is disabled.
+[00:24:47] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[00:24:48] [Render thread/WARN]: Ignoring ambiguous boolean option GENERAL_GRASS_FIX
+[00:24:48] [Render thread/WARN]: Ignoring ambiguous boolean option GENERAL_GRASS_FIX
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "ATMOSPHERIC_SCATTERING" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "ATMOSPHERIC_HAZE" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "CREPUSCULAR_RAYS" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "VOLUMETRIC_CLOUDS" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "HQ_VOLUMETRIC_CLOUDS" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "SMOOTH_CLOUDS" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "WATER_CAUSTICS" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "ENABLE_SOFT_SHADOWS" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "PIXEL_SHADOWS" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "TONEMAP_STRENGTH" defined in shaders.properties
+[00:24:48] [Render thread/WARN]: Unable to resolve shader pack option menu element "BRIGHTNESS_LEVEL" defined in shaders.properties
+[00:24:48] [Render thread/INFO]: Profile: Custom (+2 options changed by user)
+[00:24:49] [Render thread/INFO]: Using shaderpack: SEUS-Renewed-v1.0.1.zip
+[00:24:49] [modloading-worker-0/INFO]: [MELODY] Loading Melody background audio library..
+[00:24:49] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[00:24:49] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[00:24:49] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[00:24:49] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[00:24:49] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[00:24:49] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[00:24:49] [modloading-worker-0/INFO]: Loading Collective version 7.7.
+[00:24:49] [modloading-worker-0/INFO]: Carrots Lib mod constructor called
+[00:24:49] [modloading-worker-0/INFO]: nextID: carrots/101
+[00:24:49] [modloading-worker-0/INFO]: [KONKRETE] Successfully initialized!
+[00:24:49] [modloading-worker-0/INFO]: [KONKRETE] Server-side libs ready to use!
+[authlib-injector] [INFO] Transformed [com.natamus.collective_common_forge.data.GlobalVariables] with [Constant URL Transformer]
+[00:24:49] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:49] [modloading-worker-0/INFO]: Starting...
+[00:24:49] [modloading-worker-0/INFO]: Running 'WATERMeDIA' on 'Forge'
+[00:24:49] [modloading-worker-0/INFO]: WaterMedia version '2.0.27-beta'
+[00:24:49] [modloading-worker-0/WARN]: Environment was init, don't need to worry about anymore
+[00:24:49] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[00:24:49] [modloading-worker-0/INFO]: Starting modules
+[00:24:49] [modloading-worker-0/INFO]: Loading AssetsCore
+[00:24:49] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[00:24:49] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[00:24:49] [modloading-worker-0/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[00:24:49] [modloading-worker-0/INFO]: Extracting VLC...
+[00:24:49] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[00:24:49] [modloading-worker-0/INFO]: Extraction cancelled, config file matches with JAR config file
+[00:24:49] [modloading-worker-0/INFO]: Extraction finished
+[00:24:49] [modloading-worker-0/INFO]: Loading CacheCore
+[00:24:49] [modloading-worker-0/INFO]: Mounted on path 'C:\Users\18593\AppData\Local\Temp\watermedia\cache\pictures'
+[00:24:49] [modloading-worker-0/INFO]: Loading ImageAPI
+[00:24:49] [modloading-worker-0/INFO]: Loading image resources in a ImageRenderer instance
+[00:24:49] [modloading-worker-0/INFO]: nextID: carrots/102
+[00:24:50] [modloading-worker-0/INFO]: Registering C2S receiver with id hit_feedback:main/e821d74c88b73fdaab01e792d4188624
+[00:24:50] [modloading-worker-0/INFO]: Registering S2C receiver with id hit_feedback:main/e821d74c88b73fdaab01e792d4188624
+[00:24:50] [modloading-worker-0/INFO]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[00:24:50] [modloading-worker-0/INFO]: MinecraftForge v40.2.21 Initialized
+[00:24:50] [modloading-worker-0/WARN]: Static binding violation: PRIVATE @Overwrite method m_109501_ in embeddium.mixins.json:features.chunk_rendering.MixinWorldRenderer cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[00:24:50] [modloading-worker-0/WARN]: @Redirect conflict. Skipping sodium-extra.mixins.json:stars.MixinWorldRenderer->@Redirect::redirectGetStarBrightness(Lnet/minecraft/client/multiplayer/ClientLevel;F)F with priority 900, already redirected by citadel.mixins.json:client.WorldRendererMixin->@Redirect::citadel_getStarBrightness(Lnet/minecraft/client/multiplayer/ClientLevel;F)F with priority 1000
+[00:24:50] [modloading-worker-0/INFO]: Potion effect neutralizer hook initialized successfully!
+[00:24:50] [modloading-worker-0/INFO]: Potion type converter hook initialized successfully!
+[00:24:50] [modloading-worker-0/INFO]: Loading UrlAPI
+[00:24:50] [modloading-worker-0/INFO]: Loading URLFixer's
+[00:24:51] [modloading-worker-0/INFO]: Loading VideoLanCore
+[00:24:51] [modloading-worker-0/INFO]: Scanning classes for titanium
+[00:24:51] [modloading-worker-0/INFO]: Searching on 'C:\Users\18593\AppData\Local\Temp\watermedia\videolan'
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:basic_attack
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:air_attack
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:roll
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:step
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:knockdown_wakeup
+[00:24:51] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:51] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:guard
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:parrying
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:impact_guard
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:berserker
+[00:24:51] [modloading-worker-0/INFO]: register skill epicfight:death_harvest
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:emergency_escape
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:endurance
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:forbidden_strength
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:hypervitality
+[00:24:52] [modloading-worker-0/INFO]: Version: 5.7.3 (arnicalib-1.18.2-5.7.3-rev.55c2b82-build.61)
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:stamina_pillager
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:swordmaster
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:technician
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:sweeping_edge
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:dancing_edge
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:the_guillotine
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:grasping_spire
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:heartpiercer
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:steel_whirlwind
+[00:24:52] [modloading-worker-0/INFO]: Setting *DEFAULT* builtin as default season provider
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:battojutsu
+[00:24:52] [modloading-worker-0/INFO]: Using configured thresholds as Day-Night state provider
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:battojutsu_passive
+[00:24:52] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:rushing_tempo
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:relentless_combo
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:liechtenauer
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:sharp_stab
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:eviscerate
+[00:24:52] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:52] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:52] [modloading-worker-0/INFO]: Oculus detected.
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:blade_rush
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:wrathful_lighting
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:tsunami
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:everlasting_allegiance
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:meteor_slam
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:revelation
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:demolition_leap
+[00:24:52] [modloading-worker-0/INFO]: nextID: carrots/103
+[00:24:52] [modloading-worker-0/INFO]: register skill epicfight:phantom_ascent
+[00:24:52] [modloading-worker-0/INFO]: Registered synced data key tac:aiming for minecraft:living_entity
+[00:24:52] [modloading-worker-0/INFO]: Registered synced data key tac:shooting for minecraft:living_entity
+[00:24:52] [modloading-worker-0/INFO]: Registered synced data key tac:reloading for minecraft:living_entity
+[00:24:52] [modloading-worker-0/INFO]: Registered synced data key tac:moving for minecraft:living_entity
+[00:24:52] [modloading-worker-0/INFO]: Registered synced data key tac:stop_anima for minecraft:living_entity
+[00:24:52] [modloading-worker-0/INFO]: Registered synced data key tac:qrepairing for minecraft:living_entity
+[00:24:52] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:52] [modloading-worker-0/INFO]: Created new VLC instance from 'C:\Users\18593\AppData\Local\Temp\watermedia\videolan' with args: '[--quiet, --file-logging, --logmode=text, --logfile=C:\Users\18593\AppData\Local\Temp\watermedia\logs\videolan.log, --verbose=2, --aout={directsound,mmdevice,waveout}, --http-reconnect]'
+[00:24:52] [modloading-worker-0/INFO]: Startup finished
+[00:24:52] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:52] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[00:24:53] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigDungeonModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.NoteBlockMobSoundsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[00:24:53] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.CameraModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FrogsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ChestsInBoatsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.ZombieVillagersOnNormalModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybind
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[00:24:53] [modloading-worker-0/INFO]: dumping Runtime Pack's assets and data
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[00:24:53] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.OrientalPaletteModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[00:24:54] [modloading-worker-0/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$ckl000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[00:24:54] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[00:24:54] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT
+[00:24:54] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT_CLIENT
+registering network handlers
+[00:24:54] [modloading-worker-0/INFO]: Registered bogey styles from railways
+[00:24:54] [modloading-worker-0/INFO]: Registering data fixers
+[00:24:55] [modloading-worker-0/INFO]: Registering tracks for Hex Casting
+[00:24:55] [modloading-worker-0/INFO]: Registering tracks for Oh The Biomes You'll Go
+[00:24:55] [modloading-worker-0/INFO]: Registering tracks for Blue Skies
+[00:24:55] [modloading-worker-0/INFO]: Registering tracks for Twilight Forest
+[00:24:55] [modloading-worker-0/INFO]: Registering tracks for Biomes O' Plenty
+[00:24:55] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[00:24:55] [Render thread/INFO]: Reloading ResourceManager: appleskin-forge-mc1.18.2-2.5.1.jar, architectury-4.12.94-forge.jar, Argentina's delight 1.18.2 (3.0 beta).jar, [lib]arnicalib-1.18.2-5.7.3.jar, AutoRegLib-1.7-53.jar, [lib]balm-3.2.6.jar, [lib]blueprint-1.18.2-5.5.0.jar, [lib]Bookshelf-Forge-1.18.2-13.3.56.jar, ColaMixinConfig-v1.0.2.jar, [lib]carrotslib-mc1.18.2-4.0.jar, [lib]citadel-1.11.3-1.18.2.jar, cloth-config-forge-6.3.81.jar, [lib]CodeChickenLib-1.18.2-4.1.4.488-universal.jar, [lib]collective-1.18.2-7.7.jar, CraftITrace-1.0.jar, [机械动力]create-1.18.2-0.5.1.f.jar, [机械动力：东西附加]create-stuff-additions1.18.2_v2.0.4a.jar, [机械动力：物品附加]createaddition-1.18.2-1.0.0.jar, [机械动力：火炮] createbigcannons-forge-1.18.2-0.5.3.a.jar, [机械动力：柴油机]createdieselgenerators-1.18.2-1.2h.jar, [机械动力：末影传输] createendertransmission-2.0.6-1.18.2.jar, [机械动力：更多实用设备]createutilities-0.2.0+1.18.2.jar, [lib]CreativeCore_FORGE_v2.6.17_mc1.18.2.jar, [lib]cristellib-forge-1.0.0.jar, 史诗村庄ctov-2.9.4.jar, [lib]differentiate-1.18.2-1.0.3.jar, do-a-barrel-roll-2.5.3+1.18.2-forge.jar, [姨母佰德姨母]embeddium-0.3.12+mc1.18.2.jar, [姨母佰德姨母泼辣丝]embeddiumplus-1.18.2-v1.2.5.jar, EpicFight-18.5.24.jar, [机械动力：更多齿轮]extendedgears-2.1.0-1.18.2-0.5.1.c-forge.jar, FarmersDelight-1.18.2-1.2.3.jar, [lib]flowerycore.jar, flywheel-forge-1.18.2-0.6.10-105.jar, forge-1.18.2-40.2.21-universal.jar, framework-forge-1.18.2-0.4.3.jar, [lib]ftb-library-forge-1802.3.11-build.177.jar, [lib]geckolib-forge-1.18-3.0.57.jar, HitFeedback-1.18.2-1.1.1-forge.jar, iceandfire-2.1.12-1.18.2.jar, [lib]InsaneLib-1.5.3-mc1.18.2.jar, jei-1.18.2-forge-10.2.1.1006.jar, [lib]JsonThings-1.18.2-0.4.15.jar, [lib]konkrete_forge_1.8.0_MC_1.18-1.18.2.jar, kffmod-3.12.0.jar, [lib]LowDragLib-1.18.2-1.0.8.jar, [lib]Mantle-1.18.2-1.9.43.jar, [lib]mcjtylib-1.18-6.0.20.jar, [lib]melody_forge_1.0.1_MC_1.18.2.jar, mixinextras-forge-0.3.5.jar, [lib]mmlib-1.4.5-1.18.2.jar, MoreCrashInfo-Core-1.18.2.jar, [崩溃小能手]oculus-mc1.18.2-1.6.4.jar, pamhc2crops-1.18.2-1.0.6.jar, pamhc2foodcore-1.18.2-1.0.3.jar, pamhc2foodextended-1.18.2-1.0.5.jar, pamhc2trees-1.18.2-1.0.4.jar, [帕秋莉手册]Patchouli-1.18.2-71.1.jar, physics-mod-2.12.5-mc-1.18.2-forge.jar, [lib]Placebo-1.18.2-6.6.7.jar, Quark-3.2-358.jar, [机械动力：汽鸣铁道]Steam_Rails-1.4.8+forge-mc1.18.2-build.23.jar, [lib]rhino-forge-1802.2.1-build.255.jar, ritchiesprojectilelib-1.0.0-3a68f88+1.18.2-forge.jar, [lib]selene-1.18.2-1.17.14.jar, [禁用警告]shutupexperimentalsettings-1.0.5.jar, [铷扩展]rubidium-extra-0.4.18+mc1.18.2-build.86.jar, [优化]starlight-1.0.2+forge.546ae87.jar, [lib]supermartijn642configlib-1.1.8-forge-mc1.18.jar, [lib]supermartijn642corelib-1.1.15-forge-mc1.18.jar, tac-a-0.3.10.2-1.18.2.jar, [姨母佰德姨母配置界面]textrues_embeddium_options-0.1.1+mc1.18.2.jar, [lib]titanium-1.18.2-3.5.11-45.jar, [机械动力：履带]trackwork-1.18.2-0.0.1h1-alpha.jar, travelersbackpack-forge-1.18.2-7.1.48.jar, [瓦尔基里2]valkyrienskies-118-forge-2.1.1-beta.6+b1ee932637.jar, [瓦尔基里：发条]clockwork-1.18.2-0.1.13-forge-90516b7ffc.jar, [瓦尔基里：尤里卡的船]eureka-1.4.0-beta.1.jar, [lib]watermedia-2.0.27-beta.jar, Xaeros_Minimap_24.2.0_Forge_1.18.2.jar, [Xaero的世界地图] XaerosWorldMap_1.37.3_Forge_1.18.2.jar, [lib]YungsApi-1.18.2-Forge-2.2.9.jar
+[00:24:55] [Render thread/INFO]: Started registering Block things, errors about unexpected registry domains are harmless...
+[00:24:55] [Render thread/INFO]: Done processing thingpack Blocks.
+[00:24:56] [Render thread/INFO]: Dispatching Module Step REGISTER
+[00:24:56] [Render thread/INFO]: Dispatching Module Step POST_REGISTER
+[00:24:56] [Render thread/INFO]: Started registering Item things, errors about unexpected registry domains are harmless...
+[00:24:56] [Render thread/INFO]: Done processing thingpack Items.
+[00:24:57] [Render thread/INFO]: Started registering Enchantment things, errors about unexpected registry domains are harmless...
+[00:24:57] [Render thread/INFO]: Done processing thingpack Enchantments.
+[00:24:57] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[00:24:57] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[00:24:57] [Render thread/INFO]: Started registering Fluid things, errors about unexpected registry domains are harmless...
+[00:24:57] [Render thread/INFO]: Done processing thingpack Blocks.
+java.io.FileNotFoundException: C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\cloth_local\Vanilla Cape.dae (系统找不到指定的路径。)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at TRANSFORMER/physicsmod@2.12.5/net.diebuddies.model.XmlParser.loadFile(XmlParser.java:27)
+	at TRANSFORMER/physicsmod@2.12.5/net.diebuddies.model.ColladaParser.loadMultipleStaticModel(ColladaParser.java:30)
+	at TRANSFORMER/physicsmod@2.12.5/net.diebuddies.model.ColladaParser.loadStaticModel(ColladaParser.java:25)
+	at TRANSFORMER/physicsmod@2.12.5/net.diebuddies.physics.PhysicsMod.loadCloth(PhysicsMod.java:374)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.renderer.texture.TextureManager.handler$blg000$constructor(TextureManager.java:1027)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.renderer.texture.TextureManager.<init>(TextureManager.java:42)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.Minecraft.<init>(Minecraft.java:464)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.main.Main.main(Main.java:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.21/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+Couldn't load default cape model
+java.lang.NullPointerException: Cannot invoke "java.util.Map.values()" because the return value of "net.diebuddies.model.ColladaParser.loadMultipleStaticModel(java.io.File)" is null
+	at TRANSFORMER/physicsmod@2.12.5/net.diebuddies.model.ColladaParser.loadStaticModel(ColladaParser.java:25)
+	at TRANSFORMER/physicsmod@2.12.5/net.diebuddies.physics.PhysicsMod.loadCloth(PhysicsMod.java:374)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.renderer.texture.TextureManager.handler$blg000$constructor(TextureManager.java:1027)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.renderer.texture.TextureManager.<init>(TextureManager.java:42)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.Minecraft.<init>(Minecraft.java:464)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.main.Main.main(Main.java:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.21/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+[00:24:57] [Render thread/INFO]: enabled vertex attrib rendering path
+[00:24:57] [Render thread/INFO]: Instancing error handler class org.valkyrienskies.mod.mixin.ValkyrienMixinErrorHandler
+[00:24:57] [Render thread/WARN]: Mixin apply failed physicsmod.mixins.json:vines.MixinBlockRenderManagerForgeNew -> net.minecraft.client.renderer.block.BlockRenderDispatcher: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Invalid descriptor on physicsmod.mixins.json:vines.MixinBlockRenderManagerForgeNew->@Inject::renderBatched(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Ljava/lang/Object;Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V! Expected (Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Lnet/minecraftforge/client/model/data/IModelData;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V but found (Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Ljava/lang/Object;Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V [ -> Inject -> physicsmod.mixins.json:vines.MixinBlockRenderManagerForgeNew->@Inject::renderBatched(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Ljava/lang/Object;Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Invalid descriptor on physicsmod.mixins.json:vines.MixinBlockRenderManagerForgeNew->@Inject::renderBatched(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Ljava/lang/Object;Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V! Expected (Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Lnet/minecraftforge/client/model/data/IModelData;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V but found (Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Ljava/lang/Object;Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V [ -> Inject -> physicsmod.mixins.json:vines.MixinBlockRenderManagerForgeNew->@Inject::renderBatched(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/BlockAndTintGetter;Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;ZLjava/util/Random;Ljava/lang/Object;Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:517) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:447) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.code.Injector.inject(Injector.java:276) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.inject(InjectionInfo.java:445) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1355) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1051) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:400) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-9.1.3.jar:9.1.3+9.1.3+main.9b69c82a]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:488) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.21.jar%2318!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[00:24:57] [Render thread/INFO]: Hardware information:
+[00:24:57] [Render thread/INFO]: CPU: 16x 12th Gen Intel(R) Core(TM) i5-12500H
+[00:24:57] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 546.80)
+[00:24:57] [Render thread/INFO]: OS: Windows 11 (10.0)
+[00:24:58] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[00:24:58] [Render thread/INFO]: Registering model layer quark:crab#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:shiba#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:frog#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:wraith#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:forgotten_hat#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:stoneling#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:toretoise#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:quark_boat#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:foxhound#main
+[00:24:58] [Render thread/INFO]: Registering model layer quark:backpack#main
+[00:24:58] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip, quark-emote-pack, ldlib
+[00:24:58] [Worker-Main-27/INFO]: Dispatching Module Step TEXTURE_STITCH
+[00:24:58] [Worker-Main-17/INFO]: Dispatching Module Step TEXTURE_STITCH
+[00:24:58] [Worker-Main-19/INFO]: Dispatching Module Step TEXTURE_STITCH
+[00:24:58] [Worker-Main-29/INFO]: Dispatching Module Step TEXTURE_STITCH
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Redstone Randomizer
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Pistons Move Tile Entities
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Obsidian Plate
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Metal Buttons
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Jukebox Automation
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Iron Rod
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Gravisand
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Feeding Trough
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Ender Watcher
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Dispensers Place Blocks
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Chute
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Chains Connect Blocks
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Wooden Posts
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Vertical Slabs
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Vertical Planks
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Variant Ladders
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Variant Furnaces
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Variant Chests
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Variant Bookshelves
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Thatch
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Sturdy Stone
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Stools
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Soul Sandstone
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Shingles
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Shear Vines
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Rope
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Oriental Palette
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Nether Brick Fence Gate
+[00:24:59] [modloading-worker-0/INFO]: Loading Module More Stone Variants
+[00:24:59] [modloading-worker-0/INFO]: Loading Module More Potted Plants
+[00:24:59] [modloading-worker-0/INFO]: Loading Module More Brick Types
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Midori
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Leaf Carpet
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Industrial Palette
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Hedges
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Grate
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Gold Bars
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Glass Item Frame
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Framed Glass
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Duskbound Blocks
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Compressed Blocks
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Celebratory Lamps
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Quick Armor Swapping
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Item Sharing
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Inventory Sorting
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Hotbar Changer
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Expanded Item Interactions
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Easy Transfering
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Chests In Boats
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Trowel
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Slime In A Bucket
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Seed Pouch
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Pickarang
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Pathfinder Maps
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Parrot Eggs
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Endermosh Music Disc
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Color Runes
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Camera
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Bundle Recipe
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Bottled Cloud
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Beacon Redirection
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Ancient Tomes
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Ambient Discs
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Abacus
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Villagers Follow Emeralds
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Vexes Die With Their Masters
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Utility Recipes
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Snow Golem Player Heads
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Simple Harvest
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Sign Editing
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Replace Scaffolding
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Reacharound Placing
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Poison Potato Usage
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Pig Litters
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Pat The Dogs
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Note Block Mob Sounds
+[00:24:59] [modloading-worker-0/INFO]: Loading Module More Banner Layers
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Lock Rotation
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Hoe Harvesting
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Grab Chickens
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Glass Shard
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Enhanced Ladders
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Emotes
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Dragon Scales
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Double Door Opening
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Compasses Work Everywhere
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Campfires Boost Elytra
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Better Elytra Rocket
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Automatic Recipe Unlock
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Armed Armor Stands
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Skull Pikes
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Spiral Spires
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Permafrost
+[00:24:59] [modloading-worker-0/INFO]: Loading Module No More Lava Pockets
+[00:24:59] [modloading-worker-0/INFO]: Loading Module New Stone Types
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Nether Obsidian Spikes
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Monster Box
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Glimmering Weald
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Fairy Rings
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Corundum
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Chorus Vegetation
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Blossom Trees
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Big Stone Clusters
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Big Dungeon
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Azalea Wood
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Wraith
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Toretoise
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Stonelings
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Shiba
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Frogs
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Foxhound
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Forgotten
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Crabs
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Variant Animal Textures
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Uses For Curses
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Usage Ticker
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Soul Candles
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Microcrafting Helper
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Improved Tooltips
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Greener Grass
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Chest Searching
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Back Button Keybind
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Auto Walk Keybind
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Zombie Villagers On Normal
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Spawner Replacer
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Overlay Shader
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Narrator Readout
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Game Nerfs
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Enchantments Begone
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Adjustable Chat
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Totem Of Holding
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Tiny Potato
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Pipes
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Matrix Enchanting
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Magnets
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Crate
+[00:24:59] [modloading-worker-0/INFO]: Loading Module Backpack
+[00:24:59] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED
+[00:24:59] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[00:24:59] [Worker-Main-22/INFO]: Presented by Zaia
+[00:24:59] [Forge Version Check/INFO]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
+[00:24:59] [Worker-Main-27/INFO]: Dispatching Module Step CONFIG_CHANGED
+[00:24:59] [Worker-Main-27/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[00:24:59] [Worker-Main-27/INFO]: Dispatching Module Step SETUP
+[00:24:59] [Render thread/FATAL]: Preparing crash report with UUID 382a618d-0332-4907-bce3-db83f922fae1
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 2024/7/16 上午12:24
+Description: Initializing game
+
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?] {}
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:42) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:45) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:550) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick_render_call,xf:fml:xaerominimap:xaero_minecraftclient,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick_render_call,xf:fml:xaerominimap:xaero_minecraftclient,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.21.jar%2318!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Suspected Mods: NONE
+Stacktrace:
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?] {}
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:42) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:45) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:550) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick_render_call,xf:fml:xaerominimap:xaero_minecraftclient,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick,xf:fml:xaeroworldmap:xaero_wm_minecraft_runtick_render_call,xf:fml:xaerominimap:xaero_minecraftclient,pl:mixin:A,pl:runtimedistcleaner:A}
+[CraftITrace] Mixins in Stacktrace:
+	net.minecraft.client.Minecraft:
+		com.tac.guns.mixin.client.MinecraftStaticMixin (tac.mixins.json)
+		net.coderbot.iris.mixin.MixinMinecraft_Keybinds (mixins.oculus.json)
+		dev.architectury.mixin.forge.MixinMinecraft (architectury.mixins.json)
+		com.simibubi.create.foundation.mixin.client.WindowResizeMixin (create.mixins.json)
+		net.blay09.mods.balm.mixin.MinecraftMixin (balm.mixins.json)
+		org.valkyrienskies.clockwork.mixin.content.gravitron.MinecraftAccessor (vs_clockwork-common.mixins.json)
+		net.coderbot.iris.mixin.MixinMinecraft_PipelineManagement (mixins.oculus.json)
+		com.jozufozu.flywheel.mixin.PausedPartialTickAccessor (flywheel.mixins.json)
+		net.diebuddies.mixins.fabricapi.MixinMinecraft (physicsmod.mixins.json)
+		codechicken.lib.internal.mixin.MinecraftMixin (mixins.codechickenlib.json)
+		net.diebuddies.mixins.MixinMinecraft (physicsmod.mixins.json)
+		com.teamabnormals.blueprint.core.mixin.client.MinecraftMixin (blueprint.mixins.json)
+		me.jellysquid.mods.sodium.mixin.core.MixinMinecraftClient (embeddium.mixins.json)
+		com.railwayteam.railways.mixin.conductor_possession.MixinMinecraft (railways-common.mixins.json)
+		net.diebuddies.mixins.cloth.MixinMinecraft (physicsmod.mixins.json)
+		me.srrapero720.embeddiumplus.mixins.impl.fps.GpuUsageMixin (embeddiumplus.mixin.json)
+		net.coderbot.iris.mixin.MixinMinecraft_Images (mixins.oculus.json)
+		net.darkhax.bookshelf.mixin.client.AccessorMinecraft (bookshelf.common.mixins.json)
+		de.keksuccino.konkrete.mixin.client.MixinMinecraft (konkrete.mixin.json)
+		me.flashyreese.mods.sodiumextra.mixin.gui.MinecraftClientAccessor (sodium-extra.mixins.json)
+		org.valkyrienskies.mod.mixin.client.MixinMinecraft (valkyrienskies-common.mixins.json)
+-- Initialization --
+Details:
+	Modules: 
+		ADVAPI32.dll:高级 Windows 32 基本 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		AMSIExt.dll:McAfee Cloud AV ThirdParty Ext:26.2.190 dddedcaa gossamer carrot:McAfee, LLC
+		COMCTL32.dll:用户体验控件库:6.10 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPT32.dll:加密 API32:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTBASE.dll:Base cryptographic API DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTSP.dll:Cryptographic Service Provider API:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		CoreUIComponents.dll:Microsoft Core UI Components Dll:10.0.22621.3672:Microsoft Corporation
+		DBGHELP.DLL:Windows Image Helper:10.0.22621.3593 (WinBuild.160101.0800):Microsoft Corporation
+		DEVOBJ.dll:Device Information Set DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		DNSAPI.dll:DNS 客户端 API DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		DSOUND.dll:DirectSound:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		GDI32.dll:GDI Client DLL:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		GLU32.dll:OpenGL 实用工具库 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		HID.DLL:Hid 用户库:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.22621.3374 (WinBuild.160101.0800):Microsoft Corporation
+		IPHLPAPI.DLL:IP 帮助程序 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		IntelControlLib.dll:Intel Graphics Control Lib Runtime:1.0.148:
+		KERNEL32.DLL:Windows NT 基本 API 客户端 DLL:10.0.22621.3374 (WinBuild.160101.0800):Microsoft Corporation
+		KERNELBASE.dll:Windows NT 基本 API 客户端 DLL:10.0.22621.3374 (WinBuild.160101.0800):Microsoft Corporation
+		MMDevApi.dll:MMDevice API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		MSASN1.dll:ASN.1 Runtime APIs:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		MSCTF.dll:MSCTF 服务器 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		MessageBus.dll:NVIDIA Message Bus::NVIDIA Corporation
+		MpOav.dll:IOfficeAntiVirus Module:4.18.24050.7 (b60bcb9c79f050335eb91db16f7d3e97336ad10e-dirty):Microsoft Corporation
+		NSI.dll:NSI User-mode interface DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		NTASN1.dll:Microsoft ASN.1 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		OLEAUT32.dll:OLEAUT32.DLL:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		Ole32.dll:用于 Windows 的 Microsoft OLE:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		OpenAL.dll
+		POWRPROF.dll:电源配置文件帮助程序 DLL:10.0.22621.3374 (WinBuild.160101.0800):Microsoft Corporation
+		PSAPI.DLL:Process Status Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		Pdh.dll:Windows 性能数据助手 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		PhysXCommon_64.dll:PhysXCommon 64bit Dynamic Link Library:4.1.2.0:NVIDIA Corporation
+		PhysXCooking_64.dll:PhysXCooking 64bit Dynamic Link Library:4.1.2.0:NVIDIA Corporation
+		PhysXFoundation_64.dll:PhysXFoundation 64bit Dynamic Link Library:4.1.2.0:NVIDIA Corporation
+		PhysXJniBindings_64.dll
+		PhysX_64.dll:PhysX 64bit Dynamic Link Library:4.1.2.0:NVIDIA Corporation
+		RPCRT4.dll:远程过程调用运行时:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		ResampleDmo.DLL:Windows Media Resampler:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		SAPIWrapper_x64.dll
+		SETUPAPI.DLL:Windows 安装程序 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		SHCORE.dll:SHCORE:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		SHELL32.dll:Windows Shell 公用 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		SHLWAPI.dll:外壳简易实用工具库:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		SafeWrapper.dll:360网盾模块:2, 0, 0, 1270:360.cn
+		UMPDC.dll:User Mode Power Dependency Coordinator:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		USER32.dll:多用户 Windows 用户 API 客户端 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		USERENV.dll:Userenv:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		VCRUNTIME140.dll:Microsoft® C Runtime Library:14.29.30135.0 built by: vcwrkspc:Microsoft Corporation
+		VERSION.dll:Version Checking and File Installation Libraries:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WINHTTP.dll:Windows HTTP 服务:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		WINMM.dll:MCI API DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		WINSTA.dll:Winstation Library:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		WINTRUST.dll:Microsoft Trust Verification APIs:10.0.22621.3737 (WinBuild.160101.0800):Microsoft Corporation
+		WS2_32.dll:Windows Socket 2.0 32 位 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		WSOCK32.dll:Windows Socket 32-Bit DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WinSCard.dll:Microsoft 智能卡 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		amsi.dll:Anti-Malware Scan Interface:10.0.22621.3527 (WinBuild.160101.0800):Microsoft Corporation
+		apphelp.dll:应用程序兼容性客户端库:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		awt.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		bcrypt.dll:Windows 加密基元库:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		cfgmgr32.dll:Configuration Manager DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+		combase.dll:用于 Windows 的 Microsoft COM:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		cryptnet.dll:Crypto Network Related API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		d3d11.dll:Direct3D 11 Runtime:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		dbgcore.DLL:Windows Core Debugging Helpers:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dcomp.dll:Microsoft DirectComposition Library:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc.DLL:DHCP 客户端服务:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc6.DLL:DHCPv6 客户端:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		dinput8.dll:Microsoft DirectInput:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		directxdatabasehelper.dll:DirectXDatabaseHelper:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		drvstore.dll:Driver Store API:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		dwmapi.dll:Microsoft 桌面窗口管理器 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		dxcore.dll:DXCore:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		dxgi.dll:DirectX Graphics Infrastructure:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		extnet.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		fastprox.dll:WMI Custom Marshaller:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		fwpuclnt.dll:FWP/IPsec 用户模式 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		gdi32full.dll:GDI Client DLL:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		glfw.dll
+		gpapi.dll:组策略客户端 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		icm32.dll:Microsoft Color Management Module (CMM):10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		igc64.dll:Intel Graphics Shader Compiler for Intel(R) Graphics Accelerator:31.0.101.4502:Intel Corporation
+		igd10iumd64.dll:User Mode Driver for Intel(R) Graphics Technology:31.0.101.4502:Intel Corporation
+		igd10um64xe.DLL:User Mode Driver for Intel(R) Graphics Technology:31.0.101.4502:Intel Corporation
+		igdgmm64.dll:User Mode Driver for Intel(R) Graphics Technology:31.0.101.4502:Intel Corporation
+		imagehlp.dll:Windows NT Image Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		inputhost.dll:InputHost:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		instrument.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		java.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		java.exe:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		jimage.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		jli.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		jna16368587483606102283.dll:JNA native library:6.1.2:Java(TM) Native Access (JNA)
+		jsvml.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		jvm.dll:Zulu 64-Bit Server VM:17.0.11:Azul Systems Inc.
+		kernel.appcore.dll:AppModel API Host:10.0.22621.2715 (WinBuild.160101.0800):Microsoft Corporation
+		liba52_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libadaptive_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libadf_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libadjust_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libadpcm_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libadummy_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaes3_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaiff_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libalphamask_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libamem_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libanaglyph_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libantiflicker_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaom_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaraw_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaribcam_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaribsub_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libasf_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libau_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaudio_format_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libaudiobargraph_a_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libavcodec_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libavi_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libball_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libblend_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libblendbench_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libbluescreen_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcache_block_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcache_read_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcaf_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcanvas_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcc_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcdg_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libchorus_flanger_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcolorthres_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcompressor_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libconsole_logger_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcroppadd_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcrystalhd_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libcvdsub_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libd3d11va_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdav1d_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdca_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libddummy_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdeinterlace_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdemux_cdg_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdemux_chromecast_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdemux_stl_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdemuxdump_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdiracsys_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdirectory_demux_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdirectsound_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdmo_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdolby_surround_decoder_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdvbsub_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libdxva2_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libedgedetection_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libedummy_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libequalizer_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liberase_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libes_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libextract_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libfaad_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libfile_logger_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libfilesystem_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libflac_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libflacsys_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libfloat_mixer_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libfluidsynth_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libfps_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libfreeze_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libg711_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgain_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgaussianblur_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgl_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libglwin32_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgme_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgnutls_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgradfun_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgradient_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libgrain_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libh26x_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libhds_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libheadphone_channel_mixer_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libhqdn3d_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libhttp_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libhttps_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libimage_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libimem_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libinflate_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libinteger_mixer_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libinvert_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libjpeg_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libkaraoke_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libkate_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liblibass_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liblibmpeg2_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liblogo_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liblpcm_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liblua_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmad_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmagnify_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmarq_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmft_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmirror_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmjpeg_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmkv_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmod_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmono_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmotionblur_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmotiondetect_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmp4_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmpc_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmpg123_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmpgv_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_asf_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_avi_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_dummy_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_mp4_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_mpjpeg_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_ogg_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_ps_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_ts_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libmux_wav_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libnormvol_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libnoseek_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libnsc_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libnsv_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libnuv_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libogg_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liboggspots_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		liboldmovie_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libopus_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_a52_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_av1_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_copy_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_dirac_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_dts_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_flac_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_h264_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_hevc_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_mlp_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_mpeg4audio_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_mpeg4video_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_mpegaudio_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_mpegvideo_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpacketizer_vc1_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libparam_eq_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libplaylist_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpng_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libposterize_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpostproc_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libprefetch_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libps_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpsychedelic_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpuzzle_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libpva_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libqsv_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		librawaud_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		librawdv_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		librawvid_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		librawvideo_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libreal_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		librecord_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libremap_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libripple_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		librotate_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		librtpvideo_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsamplerate_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libscale_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libscaletempo_pitch_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libscaletempo_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libscene_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libschroedinger_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libscte18_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libscte27_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsdl_image_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsepia_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsharpen_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsid_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsimple_channel_mixer_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libskiptags_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsmf_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libspatialaudio_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libspatializer_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libspdif_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libspeex_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libspeex_resampler_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libspudec_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libstereo_widen_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libstl_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsubsdec_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsubstx3g_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsubsusf_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsubtitle_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libsvcdsub_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libswscale_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libt140_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtcp_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtextst_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtheora_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtospdif_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtransform_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtrivial_channel_mixer_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libts_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtta_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libttml_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libtwolame_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libty_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libudp_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libugly_resampler_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libuleaddvaudio_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvc1_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvdummy_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvhs_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvlc.dll:VLC media player:3.0.18:VideoLAN
+		libvlccore.dll:VLC media player:3.0.18:VideoLAN
+		libvmem_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvobsub_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvoc_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvorbis_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libvpx_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libwasapi_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libwav_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libwave_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libwaveout_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libwebvtt_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libwgl_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libx26410b_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libx264_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libx265_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libxa_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libxml_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		libzdtp64.dll::1, 0, 0, 1320:
+		libzvbi_plugin.dll:LibVLC plugin:3.0.18:VideoLAN
+		lwjgl.dll
+		lwjgl_opengl.dll
+		lwjgl_stb.dll
+		management.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		management_ext.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		mscms.dll:Microsoft 颜色匹配系统 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		msdmo.dll:DMO Runtime:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		msvcp140.dll:Microsoft® C Runtime Library:14.29.30135.0 built by: vcwrkspc:Microsoft Corporation
+		msvcp_win.dll:Microsoft® C Runtime Library:10.0.22621.3374 (WinBuild.160101.0800):Microsoft Corporation
+		msvcrt.dll:Windows NT CRT DLL:7.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		mswsock.dll:Microsoft Windows Sockets 2.0 服务提供程序:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		napinsp.dll:电子邮件命名填充提供程序:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		ncrypt.dll:Windows NCrypt 路由器:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		net.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		nio.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		nlansp_c.dll:NLA Namespace Service Provider DLL:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		ntdll.dll:NT 层 DLL:10.0.22621.3374 (WinBuild.160101.0800):Microsoft Corporation
+		ntmarta.dll:Windows NT MARTA 提供程序:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		nvapi64.dll:NVIDIA NVAPI Library, Version 546.80 :31.0.15.4680:NVIDIA Corporation
+		nvgpucomp64.dll:NVIDIA GPU Compiler Driver, Version 546.80 :31.0.15.4680:NVIDIA Corporation
+		nvldumdx.dll:NVIDIA Driver Loader, Version 546.80 :31.0.15.4680:NVIDIA Corporation
+		nvoglv64.dll:NVIDIA Compatible OpenGL ICD:31.0.15.4680:NVIDIA Corporation
+		nvspcap64.dll:NVIDIA Game Proxy:3.27.0.120:NVIDIA Corporation
+		nvwgf2umx.dll:NVIDIA D3D10 Driver, Version 546.80 :31.0.15.4680:NVIDIA Corporation
+		opengl32.dll:OpenGL Client DLL:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		perfos.dll:Windows 系统性能对象 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		pfclient.dll:SysMain Client:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		pnrpnsp.dll:PNRP 命名空间提供程序:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		profapi.dll:User Profile Basic API:10.0.22621.3527 (WinBuild.160101.0800):Microsoft Corporation
+		rasadhlp.dll:Remote Access AutoDial Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		rsaenh.dll:Microsoft Enhanced Cryptographic Provider:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		sapi.dll:语音 API:5.3.28730.00 (WinBuild.160101.0800):Microsoft Corporation
+		sechost.dll:Host for SCM/SDDL/LSA Lookup APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		sunmscapi.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		textinputframework.dll:"TextInputFramework.DYNLINK":10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		ucrtbase.dll:Microsoft® C Runtime Library:10.0.22621.3593 (WinBuild.160101.0800):Microsoft Corporation
+		uxtheme.dll:Microsoft UxTheme 库:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		vcruntime140_1.dll:Microsoft® C Runtime Library:14.29.30135.0 built by: vcwrkspc:Microsoft Corporation
+		verify.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+		wbemcomn.dll:WMI:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		wbemprox.dll:WMI:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		wbemsvc.dll:WMI:10.0.22621.3672 (WinBuild.160101.0800):Microsoft Corporation
+		win32u.dll:Win32u:10.0.22621.3733 (WinBuild.160101.0800):Microsoft Corporation
+		windows.storage.dll:Microsoft WinRT Storage API:10.0.22621.3527 (WinBuild.160101.0800):Microsoft Corporation
+		winmmbase.dll:Base Multimedia Extension API DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		winrnr.dll:LDAP RnR Provider DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		wintypes.dll:Windows 基本类型 DLL:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		wldp.dll:Windows 锁定策略:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		wshbth.dll:Windows Sockets Helper DLL:10.0.22621.3374 (WinBuild.160101.0800):Microsoft Corporation
+		wshunix.dll:AF_UNIX Winsock2 Helper DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		xinput1_4.dll:Microsoft 公共控制器 API:10.0.22621.2860 (WinBuild.160101.0800):Microsoft Corporation
+		zip.dll:Zulu Platform x64 Architecture:17.0.11:Azul Systems Inc.
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23135!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.21.jar%2318!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+
+[CraftITrace] Mixins in Stacktrace:
+	net.minecraft.client.main.Main:
+		net.diebuddies.mixins.MixinMain (physicsmod.mixins.json)
+		com.jozufozu.flywheel.mixin.ClientMainMixin (flywheel.mixins.json)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 17.0.11, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+	Memory: 1738112440 bytes (1657 MiB) / 3019898880 bytes (2880 MiB) up to 15569256448 bytes (14848 MiB)
+	CPUs: 16
+	Processor Vendor: GenuineIntel
+	Processor Name: 12th Gen Intel(R) Core(TM) i5-12500H
+	Identifier: Intel64 Family 6 Model 154 Stepping 3
+	Microarchitecture: unknown
+	Frequency (GHz): 3.11
+	Number of physical packages: 1
+	Number of physical CPUs: 12
+	Number of logical CPUs: 16
+	Graphics card #0 name: Todesk Virtual Dispaly Adapter
+	Graphics card #0 vendor: Hainan YouQu Info Tech
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: DriverVersion=11.25.14.781
+	Graphics card #1 name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+	Graphics card #1 vendor: NVIDIA (0x10de)
+	Graphics card #1 VRAM (MB): 4095.00
+	Graphics card #1 deviceId: 0x25a0
+	Graphics card #1 versionInfo: DriverVersion=31.0.15.4680
+	Graphics card #2 name: Intel(R) Iris(R) Xe Graphics
+	Graphics card #2 vendor: Intel Corporation (0x8086)
+	Graphics card #2 VRAM (MB): 1024.00
+	Graphics card #2 deviceId: 0x46a6
+	Graphics card #2 versionInfo: DriverVersion=31.0.101.4502
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 4.80
+	Memory slot #0 type: Unknown
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 4.80
+	Memory slot #1 type: Unknown
+	Virtual memory max (MB): 36005.17
+	Virtual memory used (MB): 21075.56
+	Swap memory total (MB): 20000.00
+	Swap memory used (MB): 1344.37
+	JVM Flags: 11 total; -Xmx14848m -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32m -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:-DontCompileHugeMethods -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	Loaded Shaderpack: SEUS-Renewed-v1.0.1.zip
+		Profile: Custom (+2 options changed by user)
+	NEC status: No NEC detected
+	Launched Version: 182
+	Backend library: LWJGL version 3.2.2 SNAPSHOT
+	Backend API: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 GL version 3.2.0 NVIDIA 546.80, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: 16x 12th Gen Intel(R) Core(TM) i5-12500H
+	Forge CoreMods: 
+		| ID            | Name                          | Source                           | Status | 
+		| ------------- | ----------------------------- | -------------------------------- | ------ | 
+		| xaeroworldmap | xaeroworldmap_core            | xaeroworldmap_core.js            | Loaded | 
+		| forge         | field_to_method               | field_to_method.js               | Loaded | 
+		| forge         | field_to_instanceof           | field_to_instanceof.js           | Loaded | 
+		| forge         | add_bouncer_method            | add_bouncer_method.js            | Loaded | 
+		| forge         | registry_object_binary_compat | registry_object_binary_compat.js | Loaded | 
+		| xaerominimap  | xaerohud_core                 | xaerohud_core.js                 | Loaded | 
+	Mixin Configs: 
+		| Name                                        | Mixin Package                                     | Priority | Required | Targets | 
+		| ------------------------------------------- | ------------------------------------------------- | -------- | -------- | ------- | 
+		| embeddiumplus.mixin.json                    | me.srrapero720.embeddiumplus.mixins.impl.         | 1000     | true     | 23      | 
+		| insanelib.mixins.json                       | insane96mcp.insanelib.mixin.                      | 1000     | true     | 0       | 
+		| vs_eureka.mixins.json                       | org.valkyrienskies.eureka.forge.mixin.            | 1000     | true     | 0       | 
+		| vs_eureka-common.mixins.json                | org.valkyrienskies.eureka.mixin.                  | 1000     | true     | 1       | 
+		| ritchiesprojectilelib-forge.mixins.json     | rbasamoyai.ritchiesprojectilelib.mixin.forge.     | 1000     | true     | 0       | 
+		| ritchiesprojectilelib.mixins.json           | rbasamoyai.ritchiesprojectilelib.mixin.           | 1000     | true     | 2       | 
+		| citadel.mixins.json                         | com.github.alexthe666.citadel.mixin.              | 1000     | true     | 5       | 
+		| placebo.mixins.json                         | shadows.placebo.mixin.                            | 1000     | true     | 7       | 
+		| yungsapi.mixins.json                        | com.yungnickyoung.minecraft.yungsapi.mixin.       | 1000     | true     | 9       | 
+		| yungsapi_forge.mixins.json                  | com.yungnickyoung.minecraft.yungsapi.mixin.       | 1000     | true     | 0       | 
+		| bookshelf.common.mixins.json                | net.darkhax.bookshelf.mixin.                      | 1000     | true     | 18      | 
+		| bookshelf.forge.mixins.json                 | net.darkhax.bookshelf.mixin.                      | 1000     | true     | 1       | 
+		| vs_clockwork-common.mixins.json             | org.valkyrienskies.clockwork.mixin.               | 1000     | true     | 13      | 
+		| vs_clockwork.mixins.json                    | org.valkyrienskies.clockwork.forge.mixin.         | 1000     | true     | 1       | 
+		| ldlib.mixins.json                           | com.lowdragmc.lowdraglib.core.mixins.             | 1000     | true     | 13      | 
+		| balm.mixins.json                            | net.blay09.mods.balm.mixin.                       | 1000     | true     | 15      | 
+		| railways-common.mixins.json                 | com.railwayteam.railways.mixin.                   | 1000     | true     | 99      | 
+		| railways.mixins.json                        | com.railwayteam.railways.forge.mixin.             | 1000     | true     | 5       | 
+		| melody.mixins.json                          | de.keksuccino.melody.mixin.mixins.common.         | 1000     | true     | 2       | 
+		| melody.forge.mixins.json                    | de.keksuccino.melody.mixin.mixins.forge.          | 1000     | true     | 0       | 
+		| konkrete.mixin.json                         | de.keksuccino.konkrete.mixin.                     | 1000     | true     | 7       | 
+		| embeddium.mixins.json                       | me.jellysquid.mods.sodium.mixin.                  | 1000     | true     | 51      | 
+		| farmersdelight.mixins.json                  | vectorwing.farmersdelight.common.mixin.           | 1000     | true     | 9       | 
+		| do-a-barrel-roll.forge.mixins.json          | nl.enjarai.doabarrelroll.forge.mixin.             | 1000     | true     | 1       | 
+		| do-a-barrel-roll.mixins.json                | nl.enjarai.doabarrelroll.mixin.                   | 1000     | true     | 6       | 
+		| mixins.trackwork.json                       | edn.stratodonut.trackwork.mixin.                  | 1000     | true     | 1       | 
+		| supermartijn642corelib.mixins.json          | com.supermartijn642.core.mixin.                   | 1000     | true     | 6       | 
+		| patchouli_xplat.mixins.json                 | vazkii.patchouli.mixin.                           | 1000     | true     | 7       | 
+		| mixins.oculus.json                          | net.coderbot.iris.mixin.                          | 1000     | true     | 51      | 
+		| mixins.oculus.fantastic.json                | net.coderbot.iris.mixin.fantastic.                | 1000     | true     | 5       | 
+		| mixins.oculus.vertexformat.json             | net.coderbot.iris.mixin.vertices.                 | 1000     | true     | 7       | 
+		| mixins.oculus.bettermipmaps.json            | net.coderbot.iris.mixin.bettermipmaps.            | 1000     | true     | 2       | 
+		| mixins.oculus.fixes.maxfpscrash.json        | net.coderbot.iris.mixin.                          | 1000     | true     | 1       | 
+		| mixins.oculus.optimized-stitching.json      | net.coderbot.iris.mixin.optimized_stitching.      | 1000     | true     | 1       | 
+		| oculus-batched-entity-rendering.mixins.json | net.coderbot.batchedentityrendering.mixin.        | 1000     | true     | 12      | 
+		| mixins.oculus.compat.sodium.json            | net.coderbot.iris.compat.sodium.mixin.            | 1000     | true     | 30      | 
+		| mixins.oculus.compat.indigo.json            | net.coderbot.iris.compat.indigo.mixin.            | 1000     | true     | 0       | 
+		| mixins.oculus.compat.indium.json            | net.coderbot.iris.compat.indium.mixin.            | 1000     | true     | 0       | 
+		| collective_forge.mixins.json                | com.natamus.collective.forge.mixin.               | 1000     | true     | 2       | 
+		| extendedgears-common.mixins.json            | com.rabbitminers.extendedgears.mixin.             | 1000     | true     | 16      | 
+		| extendedgears.mixins.json                   | com.rabbitminers.extendedgears.mixin.forge.       | 1000     | true     | 1       | 
+		| architectury.mixins.json                    | dev.architectury.mixin.forge.                     | 1000     | true     | 9       | 
+		| architectury-common.mixins.json             | dev.architectury.mixin.                           | 1000     | true     | 9       | 
+		| mixins.codechickenlib.json                  | codechicken.lib.internal.mixin.                   | 1000     | true     | 4       | 
+		| craftitrace.mixin.json                      | me.srrapero720.craftitrace.mixins.                | 1000     | true     | 2       | 
+		| rhino-common.mixins.json                    | dev.latvian.mods.rhino.mod.core.mixin.common.     | 1000     | true     | 8       | 
+		| createbigcannons-common.mixins.json         | rbasamoyai.createbigcannons.mixin.                | 1000     | true     | 16      | 
+		| createbigcannons.mixins.json                | rbasamoyai.createbigcannons.forge.mixin.          | 1000     | true     | 7       | 
+		| ftblibrary-common.mixins.json               | dev.ftb.mods.ftblibrary.core.mixin.common.        | 1000     | true     | 4       | 
+		| hit_feedback.mixins.json                    | mod.chloeprime.hitfeedback.mixin.forge.           | 1000     | true     | 0       | 
+		| hit_feedback-common.mixins.json             | mod.chloeprime.hitfeedback.mixin.                 | 1000     | true     | 4       | 
+		| tac.mixins.json                             | com.tac.guns.mixin.                               | 1000     | true     | 19      | 
+		| epicfight.mixins.json                       | yesman.epicfight.mixin.                           | 1000     | true     | 14      | 
+		| shutupexperimentalsettings.mixins.json      | corgitaco.shutupexperimentalsettings.mixin.       | 1000     | true     | 2       | 
+		| starlight.mixins.json                       | ca.spottedleaf.starlight.mixin.                   | 1000     | true     | 13      | 
+		| iceandfire.mixins.json                      | com.github.alexthe666.iceandfire.world.gen.mixin. | 1000     | true     | 2       | 
+		| blueprint.mixins.json                       | com.teamabnormals.blueprint.core.mixin.           | 1000     | true     | 27      | 
+		| flowerycore.mixins.json                     | io.github.justfoxx.mixin.                         | 1000     | true     | 1       | 
+		| selene.mixins.json                          | net.mehvahdjukaar.selene.mixins.                  | 1000     | true     | 12      | 
+		| jsonthings.mixins.json                      | dev.gigaherz.jsonthings.mixin.                    | 1000     | true     | 1       | 
+		| physicsmod.mixins.json                      | net.diebuddies.mixins.                            | 1000     | false    | 72      | 
+		| creativecore.mixins.json                    | team.creative.creativecore.mixin.                 | 1000     | true     | 1       | 
+		| createutilities.mixins.json                 | me.duquee.createutilities.mixins.                 | 1000     | true     | 3       | 
+		| createendertransmission.mixins.json         | com.forsteri.createendertransmission.mixin.       | 1000     | true     | 1       | 
+		| arnicalib.mixin.json                        | org.auioc.mcmod.arnicalib.mod.mixin.              | 1000     | true     | 8       | 
+		| flywheel.mixins.json                        | com.jozufozu.flywheel.mixin.                      | 1000     | true     | 21      | 
+		| flywheel.sodium.mixins.json                 | com.jozufozu.flywheel.mixin.sodium.               | 1000     | true     | 2       | 
+		| quark.mixins.json                           | vazkii.quark.mixin.                               | 1000     | true     | 70      | 
+		| sodium-extra.mixins.json                    | me.flashyreese.mods.sodiumextra.mixin.            | 1000     | true     | 32      | 
+		| valkyrienskies-common.mixins.json           | org.valkyrienskies.mod.mixin.                     | 1000     | true     | 143     | 
+		| valkyrienskies-forge.mixins.json            | org.valkyrienskies.mod.forge.mixin.               | 1000     | true     | 13      | 
+		| reeses-sodium-options.mixins.json           | me.flashyreese.mods.reeses_sodium_options.mixin.  | 1000     | true     | 7       | 
+		| createaddition.mixins.json                  | com.mrh0.createaddition.mixin.                    | 1000     | true     | 3       | 
+		| cristellib-common.mixins.json               | net.cristellib.mixin.                             | 1000     | true     | 0       | 
+		| cristellib.mixins.json                      | net.cristellib.forge.mixin.                       | 1000     | true     | 0       | 
+		| mixinextras.init.mixins.json                | com.llamalad7.mixinextras.platform.forge.mixins.  | 1000     | false    | 0       | 
+		| create.mixins.json                          | com.simibubi.create.foundation.mixin.             | 1100     | true     | 27      | 
+		| createdieselgenerators.mixins.json          | com.jesz.createdieselgenerators.mixins.           | 1177     | true     | 2       | 
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+		 MoreCrashInfoTransformerService TRANSFORMATIONSERVICE 
+		 I18nUpdateMod TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+		kotlinforforge@3.12.0
+		lowcodefml@null
+	Mod List: 
+		[lib]supermartijn642configlib-1.1.8-forge-mc1.18.j|SuperMartijn642's Config Libra|supermartijn642configlib      |1.1.8               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]InsaneLib-1.5.3-mc1.18.2.jar                 |InsaneLib                     |insanelib                     |1.5.3               |SIDED_SETU|Manifest: NOSIGNATURE
+		ritchiesprojectilelib-1.0.0-3a68f88+1.18.2-forge.j|Ritchie's Projectile Library  |ritchiesprojectilelib         |1.0.0-3a68f88+1.18.2|SIDED_SETU|Manifest: NOSIGNATURE
+		[Xaero的世界地图] XaerosWorldMap_1.37.3_Forge_1.18.2.ja|Xaero's World Map             |xaeroworldmap                 |1.37.3              |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]Placebo-1.18.2-6.6.7.jar                     |Placebo                       |placebo                       |6.6.7               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]citadel-1.11.3-1.18.2.jar                    |Citadel                       |citadel                       |1.11.3              |COMMON_SET|Manifest: NOSIGNATURE
+		[lib]YungsApi-1.18.2-Forge-2.2.9.jar              |YUNG's API                    |yungsapi                      |1.18.2-Forge-2.2.9  |SIDED_SETU|Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.5.jar                       |MixinExtras                   |mixinextras                   |0.3.5               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]Bookshelf-Forge-1.18.2-13.3.56.jar           |Bookshelf                     |bookshelf                     |13.3.56             |SIDED_SETU|Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		[lib]LowDragLib-1.18.2-1.0.8.jar                  |LowDragLib                    |ldlib                         |1.18.2-1.0.8        |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：汽鸣铁道]Steam_Rails-1.4.8+forge-mc1.18.2-build.|Create: Steam 'n Rails        |railways                      |1.4.8+forge-mc1.18.2|SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]balm-3.2.6.jar                               |Balm                          |balm                          |3.2.6               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]melody_forge_1.0.1_MC_1.18.2.jar             |Melody                        |melody                        |1.0.1               |SIDED_SETU|Manifest: NOSIGNATURE
+		cloth-config-forge-6.3.81.jar                     |Cloth Config v4 API           |cloth_config                  |6.3.81              |SIDED_SETU|Manifest: NOSIGNATURE
+		史诗村庄ctov-2.9.4.jar                                |ChoiceTheorem's Overhauled Vil|ctov                          |2.9.4               |SIDED_SETU|Manifest: NOSIGNATURE
+		[姨母佰德姨母]embeddium-0.3.12+mc1.18.2.jar             |Embeddium                     |embeddium                     |0.3.12+mc1.18.2     |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]konkrete_forge_1.8.0_MC_1.18-1.18.2.jar      |Konkrete                      |konkrete                      |1.8.0               |SIDED_SETU|Manifest: NOSIGNATURE
+		FarmersDelight-1.18.2-1.2.3.jar                   |Farmer's Delight              |farmersdelight                |1.18.2-1.2.3        |SIDED_SETU|Manifest: NOSIGNATURE
+		ColaMixinConfig-v1.0.2.jar                        |ColaConfig                    |caffeineconfig                |1.0.2               |SIDED_SETU|Manifest: NOSIGNATURE
+		do-a-barrel-roll-2.5.3+1.18.2-forge.jar           |Do A Barrel Roll              |do_a_barrel_roll              |2.5.3+1.18.2        |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]supermartijn642corelib-1.1.15-forge-mc1.18.ja|SuperMartijn642's Core Lib    |supermartijn642corelib        |1.1.15              |SIDED_SETU|Manifest: NOSIGNATURE
+		pamhc2foodextended-1.18.2-1.0.5.jar               |Pam's HarvestCraft 2 - Food Ex|pamhc2foodextended            |1.0                 |SIDED_SETU|Manifest: NOSIGNATURE
+		[帕秋莉手册]Patchouli-1.18.2-71.1.jar                  |Patchouli                     |patchouli                     |1.18.2-71.1         |SIDED_SETU|Manifest: NOSIGNATURE
+		[崩溃小能手]oculus-mc1.18.2-1.6.4.jar                  |Oculus                        |oculus                        |1.6.4               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]carrotslib-mc1.18.2-4.0.jar                  |Carrots Lib                   |carrots                       |4.0                 |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]collective-1.18.2-7.7.jar                    |Collective                    |collective                    |7.7                 |SIDED_SETU|Manifest: NOSIGNATURE
+		architectury-4.12.94-forge.jar                    |Architectury                  |architectury                  |4.12.94             |SIDED_SETU|Manifest: NOSIGNATURE
+		framework-forge-1.18.2-0.4.3.jar                  |Framework                     |framework                     |0.4.3               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]CodeChickenLib-1.18.2-4.1.4.488-universal.jar|CodeChicken Lib               |codechickenlib                |4.1.4.488           |SIDED_SETU|Manifest: 31:e6:db:63:47:4a:6e:e0:0a:2c:11:d1:76:db:4e:82:ff:56:2d:29:93:d2:e5:02:bd:d3:bd:9d:27:47:a5:71
+		[lib]geckolib-forge-1.18-3.0.57.jar               |GeckoLib                      |geckolib3                     |3.0.57              |SIDED_SETU|Manifest: NOSIGNATURE
+		CraftITrace-1.0.jar                               |CraftITrace                   |craftitrace                   |1.0                 |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]rhino-forge-1802.2.1-build.255.jar           |Rhino                         |rhino                         |1802.2.1-build.255  |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：火炮] createbigcannons-forge-1.18.2-0.5.3.a.ja|Create Big Cannons            |createbigcannons              |0.5.3.a-nightly-4289|SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]ftb-library-forge-1802.3.11-build.177.jar    |FTB Library                   |ftblibrary                    |1802.3.11-build.177 |SIDED_SETU|Manifest: NOSIGNATURE
+		pamhc2trees-1.18.2-1.0.4.jar                      |Pam's HarvestCraft 2 - Trees  |pamhc2trees                   |1.0.1               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]watermedia-2.0.27-beta.jar                   |WaterMedia                    |watermedia                    |2.0.27-beta         |SIDED_SETU|Manifest: NOSIGNATURE
+		HitFeedback-1.18.2-1.1.1-forge.jar                |Hit Feedback                  |hit_feedback                  |1.18.2-1.1.1        |SIDED_SETU|Manifest: NOSIGNATURE
+		jei-1.18.2-forge-10.2.1.1006.jar                  |Just Enough Items             |jei                           |10.2.1.1006         |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]differentiate-1.18.2-1.0.3.jar               |Differentiate                 |differentiate                 |1.0.3               |SIDED_SETU|Manifest: NOSIGNATURE
+		tac-a-0.3.10.2-1.18.2.jar                         |Timeless and Classics Guns    |tac                           |0.3.10.2-1.18.2     |SIDED_SETU|Manifest: NOSIGNATURE
+		EpicFight-18.5.24.jar                             |Epic Fight                    |epicfight                     |18.5.24             |SIDED_SETU|Manifest: NOSIGNATURE
+		[禁用警告]shutupexperimentalsettings-1.0.5.jar        |Shutup Experimental Settings! |shutupexperimentalsettings    |1.0.5               |SIDED_SETU|Manifest: NOSIGNATURE
+		travelersbackpack-forge-1.18.2-7.1.48.jar         |Traveler's Backpack           |travelersbackpack             |7.1.48              |SIDED_SETU|Manifest: NOSIGNATURE
+		[优化]starlight-1.0.2+forge.546ae87.jar             |Starlight                     |starlight                     |1.0.2+forge.83663de |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]mcjtylib-1.18-6.0.20.jar                     |McJtyLib                      |mcjtylib                      |1.18-6.0.20         |SIDED_SETU|Manifest: NOSIGNATURE
+		iceandfire-2.1.12-1.18.2.jar                      |Ice and Fire                  |iceandfire                    |2.1.12-1.18.2       |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]blueprint-1.18.2-5.5.0.jar                   |Blueprint                     |blueprint                     |5.5.0               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]flowerycore.jar                              |FloweryCore                   |flowerycore                   |5                   |SIDED_SETU|Manifest: NOSIGNATURE
+		forge-1.18.2-40.2.21-universal.jar                |Forge                         |forge                         |40.2.21             |SIDED_SETU|Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		[lib]selene-1.18.2-1.17.14.jar                    |Selene                        |selene                        |1.18.2-1.17.14      |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]JsonThings-1.18.2-0.4.15.jar                 |Json Things                   |jsonthings                    |0.4.15              |SIDED_SETU|Manifest: NOSIGNATURE
+		client-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |SIDED_SETU|Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		physics-mod-2.12.5-mc-1.18.2-forge.jar            |Physics Mod                   |physicsmod                    |2.12.5              |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]titanium-1.18.2-3.5.11-45.jar                |Titanium                      |titanium                      |3.5.11              |SIDED_SETU|Manifest: NOSIGNATURE
+		pamhc2crops-1.18.2-1.0.6.jar                      |Pam's HarvestCraft 2 - Crops  |pamhc2crops                   |1.0.6               |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]CreativeCore_FORGE_v2.6.17_mc1.18.2.jar      |CreativeCore                  |creativecore                  |0.0NONE             |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：更多实用设备]createutilities-0.2.0+1.18.2.jar     |Create Utilities              |createutilities               |0.2.0+1.18.2        |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：末影传输] createendertransmission-2.0.6-1.18.2.j|Create Ender Transmission     |createendertransmission       |1                   |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]arnicalib-1.18.2-5.7.3.jar                   |ArnicaLib                     |arnicalib                     |5.7.3               |SIDED_SETU|Manifest: NOSIGNATURE
+		kffmod-3.12.0.jar                                 |Kotlin For Forge              |kotlinforforge                |3.12.0              |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]mmlib-1.4.5-1.18.2.jar                       |Mysterious Mountain Lib       |mmlib                         |1.4.5-1.18.2        |SIDED_SETU|Manifest: NOSIGNATURE
+		flywheel-forge-1.18.2-0.6.10-105.jar              |Flywheel                      |flywheel                      |0.6.10-105          |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：柴油机]createdieselgenerators-1.18.2-1.2h.jar  |Create Diesel Generators      |createdieselgenerators        |1.18.2-1.2h         |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力]create-1.18.2-0.5.1.f.jar                   |Create                        |create                        |0.5.1.f             |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：更多齿轮]extendedgears-2.1.0-1.18.2-0.5.1.c-forg|Extended Cogwheels            |extendedgears                 |2.1.0-1.18.2-0.5.1.c|SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]Mantle-1.18.2-1.9.43.jar                     |Mantle                        |mantle                        |1.9.43              |SIDED_SETU|Manifest: NOSIGNATURE
+		Xaeros_Minimap_24.2.0_Forge_1.18.2.jar            |Xaero's Minimap               |xaerominimap                  |24.2.0              |SIDED_SETU|Manifest: NOSIGNATURE
+		pamhc2foodcore-1.18.2-1.0.3.jar                   |Pam's HarvestCraft 2 - Food Co|pamhc2foodcore                |1.0.1               |SIDED_SETU|Manifest: NOSIGNATURE
+		[铷扩展]rubidium-extra-0.4.18+mc1.18.2-build.86.jar  |Rubidium Extra                |sodiumextra                   |0.4.18+mc1.18.2-buil|SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：东西附加]create-stuff-additions1.18.2_v2.0.4a.ja|Create Stuff & Additions      |create_sa                     |2.0.4.              |SIDED_SETU|Manifest: NOSIGNATURE
+		AutoRegLib-1.7-53.jar                             |AutoRegLib                    |autoreglib                    |1.7-53              |SIDED_SETU|Manifest: NOSIGNATURE
+		Quark-3.2-358.jar                                 |Quark                         |quark                         |3.2-358             |SIDED_SETU|Manifest: NOSIGNATURE
+		MoreCrashInfo-Core-1.18.2.jar                     |MoreCrashInfo                 |morecrashinfo                 |2.3.1               |SIDED_SETU|Manifest: NOSIGNATURE
+		Argentina's delight 1.18.2 (3.0 beta).jar         |Argentina's Delight           |argentinas_delight            |1.3                 |SIDED_SETU|Manifest: NOSIGNATURE
+		appleskin-forge-mc1.18.2-2.5.1.jar                |AppleSkin                     |appleskin                     |2.5.1+mc1.18.2      |SIDED_SETU|Manifest: NOSIGNATURE
+		[瓦尔基里2]valkyrienskies-118-forge-2.1.1-beta.6+b1ee9|Valkyrien Skies 2             |valkyrienskies                |2.1.1-beta.6+b1ee932|SIDED_SETU|Manifest: NOSIGNATURE
+		[瓦尔基里：尤里卡的船]eureka-1.4.0-beta.1.jar               |VS Eureka Mod                 |vs_eureka                     |1.4.0-beta.1        |SIDED_SETU|Manifest: NOSIGNATURE
+		[瓦尔基里：发条]clockwork-1.18.2-0.1.13-forge-90516b7ffc.|Clockwork: Create x Valkyrien |vs_clockwork                  |1.18.2-0.1.13-forge-|SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：履带]trackwork-1.18.2-0.0.1h1-alpha.jar       |Trackwork Mod                 |trackwork                     |1.18.2-0.0.1h1-alpha|SIDED_SETU|Manifest: NOSIGNATURE
+		[姨母佰德姨母配置界面]textrues_embeddium_options-0.1.1+mc1.1|TexTrue's Embeddium Options   |textrues_embeddium_options    |0.1.1+mc1.18.2      |SIDED_SETU|Manifest: NOSIGNATURE
+		[姨母佰德姨母泼辣丝]embeddiumplus-1.18.2-v1.2.5.jar        |Embeddium++                   |embeddiumplus                 |1.2.5               |SIDED_SETU|Manifest: NOSIGNATURE
+		[机械动力：物品附加]createaddition-1.18.2-1.0.0.jar        |Create Crafts & Additions     |createaddition                |1.18.2-1.0.0        |SIDED_SETU|Manifest: NOSIGNATURE
+		[lib]cristellib-forge-1.0.0.jar                   |Cristel Lib                   |cristellib                    |1.0.0               |SIDED_SETU|Manifest: NOSIGNATURE
+	Crash Report UUID: 382a618d-0332-4907-bce3-db83f922fae1
+	FML: 40.2
+	Forge: net.minecraftforge:40.2.21
+	Flywheel Backend: Uninitialized
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_1.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_2.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_3.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_4.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_5.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_6.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_7.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Worker-Main-24/WARN]: File hit_feedback:sounds/feedback/metal/failure_8.ogg does not exist, cannot add it to event hit_feedback:feedback.metal.failure
+[00:24:59] [Render thread/FATAL]: Preparing crash report with UUID f9effdc9-2832-40bb-bb07-416532076fb3
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\18593\Desktop\MC\HMCL\.minecraft\versions\182\crash-reports\crash-2024-07-16_00.24.59-client.txt
+[00:24:59] [Worker-Main-24/WARN]: File tac:sounds/item/m1_fire_s.ogg does not exist, cannot add it to event tac:item.m1_fire_s
+[00:24:59] [Worker-Main-24/WARN]: File tac:sounds/item/sks_fire.ogg does not exist, cannot add it to event tac:item.sks_fire
+[00:24:59] [Worker-Main-24/WARN]: File tac:sounds/item/smle_fire.ogg does not exist, cannot add it to event tac:item.smle_fire
+[00:24:59] [Worker-Main-24/WARN]: File tac:sounds/item/mosin_fire_s.ogg does not exist, cannot add it to event tac:item.mosin_fire_s
+[00:24:59] [Worker-Main-24/WARN]: File tac:sounds/item/m1917_s.ogg does not exist, cannot add it to event tac:item.m1917_s
+[00:24:59] [Worker-Main-24/WARN]: File tac:sounds/item/mrad_fire_s.ogg does not exist, cannot add it to event tac:item.mrad_fire_s
+[00:24:59] [Worker-Main-24/WARN]: File tac:sounds/animation/uzi_inspect_empty.ogg does not exist, cannot add it to event tac:animation.uzi_inspect_empty
+[HMCL ProcessListener] Minecraft exit with code -1(0xffffffff), type is APPLICATION_ERROR.
